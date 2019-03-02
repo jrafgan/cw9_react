@@ -1,0 +1,13 @@
+.header {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.list_top {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.menu {
+    justify-self: right;
+}

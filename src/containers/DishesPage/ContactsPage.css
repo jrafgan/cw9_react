@@ -1,0 +1,16 @@
+.item_img {
+    height: 100px;
+}
+
+.item {
+    display: grid;
+    grid-template-columns: 100px 300px 50px 50px 50px;
+    text-align: center;
+    margin: 10px;
+    justify-content: center;
+}
+
+.add_btn {
+    display: grid;
+    place-self: center right;
+}
